@@ -15,11 +15,9 @@ public:
 	void afisarecorigente();
 };
 
-
-
-void elev::Media()
+int main()
 {
-	
+
 }
 
 

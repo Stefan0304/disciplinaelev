@@ -30,7 +30,7 @@ void C_elev::citire()
 
 void C_elev::afisare() {
 
-	cout << nume << " " << prenume << "are notele : \n";
+	cout << nume << " " << prenume << " are notele : \n";
 	for (int i_i = 1; i_i<= i_nr_discipline; i_i++)
 		C_dis[i_i].afisare();
 }
