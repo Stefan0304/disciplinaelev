@@ -15,10 +15,7 @@ public:
 	void afisarecorigente();
 };
 
-int main()
-{
 
-}
 
 
 
